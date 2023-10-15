@@ -1,4 +1,14 @@
-.component-categories {
+.store-trend-categories {
+
+  h5 {
+    color: #0C0D36;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+  }
+  .component-categories {
     background: #f4f4f4;
     border-radius: 8px;
     padding: 32px 30px 10px 30px;
@@ -14,8 +24,11 @@
       color: #0c0d36;
       font-size: 18px;
       text-align: center;
-      font-weight: normal;
+      font-weight: 500;
       margin-top: 12px;
     }
   }
+}
+
+
   
